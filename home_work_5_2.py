@@ -16,5 +16,5 @@ while True:
 
     turn_calc = input("Для продовження натсність - у: ").lower()
     if turn_calc not in ("y"):
-        print("Роботу калькулятора завершено.")
+        print("Завершення роботи")
         break
